@@ -5,7 +5,7 @@ html, body, .container {
 }
 
 body {
-  background: rgb(25, 144, 255);
+  background: #e74;
   overflow: hidden;
   background-image: linear-gradient(to bottom, #190e14, #0d0d4b 30%, #c76075 80%, #e9b64b 95%);
   background-image: radial-gradient(circle at center bottom, #e9b64b, #c76075 15%, #0d0d4b 75%, #190e14 90%);
@@ -69,7 +69,7 @@ div#sea {
   left: 0px;
   bottom: 0px;
   top: 0px;
-  background-color: #d44;
+  background-color: rgb(21, 0, 37);
   transition: background-color .5s ease;
 }
 
@@ -83,7 +83,7 @@ div#sea {
   z-index: 10;
 }
 .giftbox > div {
-  background: #34495e;
+  background: #395ccf;
   position: absolute;
 }
 .giftbox > div:after, .giftbox > div:before {
